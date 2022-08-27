@@ -15,7 +15,7 @@ This clock has 3 keys to set hours, minutes and seconds and used a DS1307 Serial
 
 <p align="center">
 <a href="./LICENSE.md">
-<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Clock.9?style=badge">
+<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Clock.7?style=badge">
 </a>
 <a href="https://www.mcselec.com/">
 <img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
